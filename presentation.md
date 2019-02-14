@@ -177,6 +177,7 @@ class: center, middle, now-panic
   - No caer en los automatismos: hogar es donde la wifi se conecta automáticamente
   - No comprar dispositivos "smart" salvo que sea necesario o sean muy limitados
   - Cuidado con China
+  - Android: Blokada
 
 ---
 
@@ -187,7 +188,7 @@ class: center, middle, now-panic
 - Elige abierto/libre
 - Elige criptografía
 - Elige descentralización
-- Reclama
+- Exige tus derechos
 - Vota con tu dinero
 
 ---
@@ -203,7 +204,7 @@ class: center, middle, now-panic
 
 ---
 
-# APM? ¡Gracias!
+# ¿APM? ¡Gracias!
 
 **Dario Castañé**
 
