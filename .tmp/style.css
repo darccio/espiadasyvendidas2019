@@ -111,6 +111,9 @@ blockquote {
     font-size: 32px;
     font-family: 'Libre Barcode 39 Text', cursive; }
 
+.now-panic {
+  background-color: #c10c06; }
+
 .side-layer {
   position: absolute;
   left: 0;
