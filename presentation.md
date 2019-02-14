@@ -46,11 +46,11 @@ background-image: url(./morfeo.jpg)
 
 ## ¿Cómo lo rentabilizan?
 
-- Publicidad
-- Publicidad
-- Publicidad
-- Manipulación
-- Y... venta/filtración de datos
+- Publicidad: Google
+- Publicidad: Facebook
+- Publicidad: WhatsApp
+- Manipulación: Uber
+- Y... venta/filtración de datos: black hats
 
 ---
 
